@@ -1,5 +1,5 @@
 ## Hi there, I'm Omar 👋
-🚀 Aspiring Machine Learning Engineer | Data Enthusiast  
+AI Engineer | Machine Learning Engineer | Data Enthusiast  
 
 My journey began with Mechatronics Engineering, but I discovered my true interest in tech and data.  
 However, my real passion lies in AI, ML, and data.  
