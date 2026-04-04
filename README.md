@@ -1,7 +1,7 @@
 ## Hi there, I'm Omar 👋
-AI Engineer passionate about diving deep into details, continuously expanding knowledge across diverse scientific fields, and actively embracing open-source culture.
----
 
+---
+AI Engineer passionate about diving deep into details, continuously expanding knowledge across diverse scientific fields, and actively embracing open-source culture.
 ## 🛠️ Skills
 
 - **Programming Languages :**  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
