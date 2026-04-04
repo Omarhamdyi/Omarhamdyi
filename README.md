@@ -1,9 +1,16 @@
-## Hi there, I'm Omar 👋 
+## Hi there, I'm Omar <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+    AI Engineer passionate about diving deep into details.
+  With a strong foundation in machine learning and deep learning, specializing in NLP and generative AI applications.
+  
 
-AI Engineer passionate about diving deep into details, continuously expanding knowledge across diverse scientific fields, and actively embracing open-source culture.
----
+</p>
+<p align="center">
+  Expanding expertise in computer vision and continuously exploring knowledge across diverse scientific fields.
+ Actively embracing and contributing to open-source culture.
+</p>
 
-## 🛠️ Skills
+🛠️ Skills
 
 - **Programming Languages :**  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
 
