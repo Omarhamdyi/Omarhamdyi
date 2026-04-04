@@ -1,12 +1,5 @@
 ## Hi there, I'm Omar 👋
-AI Engineer | Machine Learning Engineer | Data Enthusiast  
-
-My journey began with Mechatronics Engineering, but I discovered my true interest in tech and data.  
-However, my real passion lies in AI, ML, and data.  
-
-I’m deeply curious about the details — from the math behind algorithms to how ML models work under the hood.  
-Instead of just using tools, I love breaking concepts down and understanding them thoroughly.  
-
+AI Engineer passionate about diving deep into details, continuously expanding knowledge across diverse scientific fields, and actively embracing open-source culture.
 ---
 
 ## 🛠️ Skills
