@@ -1,6 +1,6 @@
 ## Hi there, I'm Omar <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-    AI Engineer passionate about diving deep into details.
+    Machine Learning Engineer passionate about diving deep into details.
 With a strong foundation in machine learning and deep learning, specializing in NLP and generative AI applications, with a background in Mechatronics Engineering.
   
 
